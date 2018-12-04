@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+.box{
+    background: linear-gradient(45deg, #f109c3, #21b8c9);
+    border-style:solid;
+    border-radius: 10px 20px; 
+    border-color: rgb(228,228,237);
+    width:320px; 
+    height:268px;
+    margin:auto;
+    margin-top:100px;
+    text-align:center;	
+}
+
+.form-campo{
+    background-color: rgb(255,255,255);
+    border-radius: 5px 5px;
+    height: 17px;
+}
+
+.form-botao{
+    width: 130px;
+    height: 30px;
+    color: rgb(0,0,0);
+    font-weight: bold;
+    background-color: rgb(255,255,255);
+    border-color: rgb(255,255,255);
+    border-radius: 5px 5px; 
+}
+
